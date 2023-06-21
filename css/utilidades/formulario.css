@@ -23,7 +23,7 @@
     border: 1px solid var(--cor-2);
     padding: 12px;
     border-radius: 4px;
-    width: 30%;
+    width: 100%;
     box-sizing: border-box;
 }
 
